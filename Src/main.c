@@ -53,7 +53,6 @@ int main(void)
 
   while (1)
   {
-//test
 
 	  type = edgeDetect(BUTTON_GET_STATE, 5);
 
@@ -66,7 +65,7 @@ int main(void)
 		  }
 
 	  }
-
+//TEST GITHUB
 
 //	  if(type == RISE)tmp = 1;
 //	  if(type == FALL)tmp = 0;
