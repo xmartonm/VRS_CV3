@@ -65,7 +65,6 @@ int main(void)
 		  }
 
 	  }
-//TEST GITHUB
 
 //	  if(type == RISE)tmp = 1;
 //	  if(type == FALL)tmp = 0;
